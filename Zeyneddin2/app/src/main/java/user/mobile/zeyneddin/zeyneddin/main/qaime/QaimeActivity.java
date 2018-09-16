@@ -6,7 +6,7 @@ import android.os.Bundle;
 import user.mobile.zeyneddin.zeyneddin.R;
 
 /**
- *      Создан 2018,05,19 FARRUXJN
+ *      Создан 2018,05,19 Nikcname
  */
 
 /*
