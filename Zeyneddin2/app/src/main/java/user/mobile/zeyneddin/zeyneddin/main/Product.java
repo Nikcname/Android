@@ -1,7 +1,7 @@
 package user.mobile.zeyneddin.zeyneddin.main;
 
 /**
- *      Создан 2018,05,19 FARRUXJN
+ *      Создан 2018,05,19 Nikcname
  */
 
     /*
