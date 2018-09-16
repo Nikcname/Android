@@ -30,7 +30,7 @@ import user.mobile.zeyneddin.zeyneddin.main.sqlite.recycleView.RecycleView;
 import user.mobile.zeyneddin.zeyneddin.main.sqlite.service.ConvertPrice;
 
 /**
- *      Создан 2018,05,19 FARRUXJN
+ *      Создан 2018,05,19 Nikcname
  */
 
     /*
