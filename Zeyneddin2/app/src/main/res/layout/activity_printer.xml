@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content" android:orientation="vertical" android:layout_width="match_parent">
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:onClick="onBtnSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/search"/>
+
+    <EditText
+        android:id="@+id/txt_content"
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        android:gravity="center_vertical|top"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/btnSend"
+        android:onClick="onBtnSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send"/>
+
+    <Button
+        android:id="@+id/btn_test"
+        android:onClick="onBtnTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test"/>
+
+    <Button
+        android:id="@+id/btnClose"
+        android:onClick="onBtnClose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/close"/>
+</LinearLayout>

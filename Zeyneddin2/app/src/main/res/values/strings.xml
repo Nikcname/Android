@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zeyneddin</string>
+    <string name="search">Search</string>
+    <string name="send">Send</string>
+    <string name="test">Test</string>
+    <string name="close">Close</string>
+</resources>
