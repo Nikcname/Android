@@ -3,7 +3,7 @@ package user.mobile.zeyneddin.zeyneddin.main.sqlite.service;
 public interface IConvertPrice {
 
 /**
- *      Создан 2018,05,26 FARRUXJN
+ *      Создан 2018,05,26 Nikcname
  */
 
     /*
